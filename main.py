@@ -1,0 +1,414 @@
+[22.05.2026 12:07] Ikboloy Raxmonova: a = int(input("1×1="))
+if a == 1:
+    print("Правильно!")
+
+else:
+    print ("Неправильно!")
+b = int(input("1×2="))
+if b == 2:
+    print("Правильно!")
+else:
+    print("Неправильно!")
+c = int(input("1×3="))
+if c == 3:
+    print("Правильно!")
+else:
+    print("Неправильно")
+d = int(input("1×4="))
+if d == 4:
+    print("Правильно!")
+else:
+    print("Неправильно")
+e = int(input("1×5="))
+if  e == 5:
+    print("Правильно")
+else:
+    print("Неправильно")
+f = int(input("1×6="))
+if f ==  6:
+    print("Правильно!")
+else:
+    print("Неправильно")
+g = int(input("1×7="))
+if g == 7:
+    print("Правильно!")
+else:
+    print("Неправильно")
+q1 = int(input("1×8="))
+if q1 == 8:
+    print("Правильно!")
+else:
+    print("Неправильно")
+q2 = int(input("1×9="))
+if q2 == 9:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Вы прошли первый этап следуйщий этап ждет вас!!!")
+q3 = int(input("2×1="))
+if q3 == 2:
+    print("Правильно")
+else:
+    print("Неправильно")
+q4 = int(input("2×2="))
+if q4 == 4:
+    print("Правильно")
+else:
+    print("Неправильно")
+q5 = int(input("2×3="))
+if q5 == 6:
+    print("Правильно")
+else:
+    print("Неправильно")
+q6 = int(input("2×4="))
+if q6 == 8:
+    print("Правильно")
+else:
+    print("Неправильно")
+q7 = int(input("2×5="))
+if q7 == 10:
+    print("Правильно")
+else:
+    print("Неправильно")
+q8 = int(input("2×6="))
+if q8 == 12:
+    print("Правильно")
+else:
+    print("Неправильно")
+q9 = int(input("2×7="))
+if q9 == 14:
+    print("Правильно")
+else:
+    print("Неправильно")
+q10 = int(input("2×8="))
+if q10 == 16:
+    print("Правильно")
+else:
+    print("Неправильно")
+q11 = int(input("2×9="))
+if q11 == 18:
+    print("Правильно") 
+else:
+    print("Неправильно")
+print("Поздравляю вы прошли два этапа")
+a1 = int(input("3×1="))
+if a1 == 3:
+    print("Правильно")
+else:
+    print("Неправильно")
+a2 = int(input("3×2="))
+if a2 == 6:
+    print("Правильно")
+else:
+    print("Неправильно")
+a3 = int(input("3×3="))
+if a3 == 9:
+    print("Правильно")
+else:
+    print("Неправильно")
+a4 = int(input("3×4="))
+if a4 == 12:
+    print("Правильно")
+else:
+    print("Неправильно")
+a5 = int(input("3×5="))
+if a5 == 15:
+    print("Правильно")
+else:
+    print("Неправильно")
+    
+a6 = int(input("3×6="))
+if a6 == 18:
+    print("Правильно")
+else:
+    print("Неправильно")
+a7 = int(input("3×7="))
+if a7 == 21:
+    print("Правильно")
+else:
+    print("Неправильно")
+a8= int(input("3×8="))
+if a8 == 24:
+    print("Правильно")
+else:
+    print("Неправильно")
+a9 = int(input("3×9="))
+if a9 == 27:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Поздравляю вы прошли три этапа!!!")
+b1 = int(input("4×1="))
+if b1 == 4:
+    print("Правильно")
+else:
+    print("Неправильно")
+b2 = int(input("4×2="))
+if b2 == 8:
+    print("Правильно")
+else:
+    print("Неправильно")
+b3 = int(input("4×3="))
+if b3 == 12:
+    print("Правильно")
+else:
+    print("Неправильно")
+b4 = int(input("4×4="))
+if b4 == 16:
+    print("Правильно")
+else:
+    print("Неправильно")
+b5 = int(input("4×5="))
+if b5 == 20:
+    print("Правильно")
+else:
+    print("Неправильно")
+b6 = int(input("4×6="))
+if b6 == 24:
+    print("Правильно")
+else:
+    print("Неправильно")
+b7 = int(input("4×7="))
+if b7 == 28:
+    print("Правильно")
+else:
+    print("Неправильно")
+b8 = int(input("4×8="))
+if b8 == 32:
+    print("Правильно")
+else:
+    print("Неправильно")
+b9 = int(input("4×9="))
+if b9 == 36:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Поздравляю вы прошли четыре этапа продолжайте вас ждеть еще пять этапов!!!")
+c1 = int(input("5×1="))
+if c1 == 5:
+    print("Правильно")
+else:
+    print("Неправильно")
+c2 = int(input("5×2="))
+if c2 == 10:
+    print("Правильно")
+else:
+    print("Неправильно")
+c3 = int(input("5×3="))
+if c3 == 15:
+    print("Правильно")
+else:
+    print("Неправильно")
+c4 = int(input("5×4="))
+if c4 == 20:
+[22.05.2026 12:07] Ikboloy Raxmonova: print("Правильно")
+else:
+    print("Неправильно")
+c5 = int(input("5×5="))
+if c5 == 25:
+    print("Правильно")
+else:
+    print("Неправильно")
+c6 = int(input("5×6="))
+if c6  == 30:
+    print("Правильно")
+else:
+    print("Неправильно")
+c7 = int(input("5×7="))
+if c7 == 35:
+    print("Правильно")
+else:
+    print("Неправильно")
+c8 = int(input("5×8="))
+if c8 == 40:
+    print("Правильно")
+else:
+    print("Неправильно")
+c9 = int(input("5×9="))
+if c9 == 45:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Поздравляю вы прошли пять этапов осталось еще четыре!!!")
+w1 = int(input("6×1="))
+if w1 == 6:
+    print("Правильно")
+else:
+    print("Неправильно")
+w2 = int(input("6×2="))
+if w2 == 12:
+    print("Правильно")
+else:
+    print("Неправильно")
+w3 = int(input("6×3="))
+if w3 == 18:
+    print("Правильно")
+else:
+    print("Неправильно")
+w4 = int(input("6×4="))
+if w4 == 24:
+    print("Правильно")
+else:
+    print("Неправильно")
+w5 = int(input("6×5="))
+if  w5 == 30:
+    print("Правильно")
+else:
+    print("Неправильно")
+w6 = int(input("6×6="))
+if w6 == 36:
+    print("Правильно")
+else:
+    print("Неправильно")
+w0 = int(input("6×7="))
+if w0 == 42:
+     print("Правильно")
+else:
+     print("Неправильно")
+w8 = int(input("6×8="))
+if w8 == 48:
+     print("Правильно")
+else:
+     print("Неправильно")
+w9 = int(input("6×9="))
+if w9 == 54:
+     print("Правильно")
+else:
+     print("Неправильно")
+print("Вы большой молодец прошли шесть этапов вас ждет еще три этапа!!!")
+r1 = int(input("7×1="))
+if r1 == 7:
+    print("Правильно")
+else:
+    print("Неправильно")
+r2 = int(input("7×2="))
+if r2 == 14:
+    print("Правильно")
+else:
+    print("Неправильно")
+r3 = int(input("7×3="))
+if r3 == 21:
+    print("Правильно")
+else:
+    print("Неправильно")
+r4 = int(input("7×4="))
+if r4 == 28:
+    print("Правильно")
+else:
+    print("Неправильно")
+r5 = int(input("7×5="))
+if r5 == 35:
+    print("Правильно")
+else:
+    print("Неправильно")
+r6 = int(input("7×6="))
+if r6 == 42:
+    print("Неправильно")
+r7 = int(input("7×7="))
+if r7 == 49:
+    print("Правильно")
+else:
+    print("Неправильно")
+r8 = int(input("7×8="))
+if r8 == 56:
+    print("Правильно")
+else:
+    print("Неправильно")
+r9 = int(input("7×9="))
+if r9 == 63:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Поздравляю вы прошли семь этапов еще два этапа ждет вас!!!")
+e1 = int(input("8×1="))
+if e1 == 8:
+    print("Правильно")
+else:
+    print("Неправильно")
+e2 = int(input("8×2="))
+if e2 == 16:
+    print("Правильно")
+else:
+    print("Неправильно") 
+e3 = int(input("8×3="))
+if e3 == 24:
+    print("Правильно")
+else:
+    print("Неправильно")
+e4 = int(input("8×4="))       
+if e4 == 32:
+    print("Правильно")
+else:
+    print("Неправильно")
+e5 = int(input("8×5="))
+if e5 == 40:
+    print("Правильно")
+else:
+    print("Неправильно")
+e6 = int(input("8×6="))
+if e6 == 48:
+    print("Правильно")
+else:
+    print("Неправильно")
+e7 = int(input("8×7="))
+if e7 == 56:
+    print("Правильно")
+else:
+    print("Неправильно")
+e8 = int(input("8×8="))
+if e8 == 64:
+    print("Правильно")
+else:
+    print("Неправильно")
+e9 = int(input("8×9="))
+if e9 == 72:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Вы прошли восемь этапов вас ждет еще один этап!!!")
+n1 = int(input("9×1="))
+if n1 == 9:
+    print("Правильно")
+else:
+    print("Неправильно")
+e2 = int(input("9×2="))
+if e2 == 18:
+    print("Правильно")
+else:
+    print("Неправильно")
+e3 = int(input("9×3="))
+if e3 == 27:
+    print("Правильно")
+else:
+    print("Неправильно")
+e4 = int(input("9×4="))
+if e4 == 36:
+    print("Правильно")
+else:
+    print("Неправильно")
+e5 = int(input("9×5="))
+if e5 == 45:
+    print("Правильно")
+else:
+    print("Неправильно")
+e6 = int(input("9×6="))
+if e6 == 54:
+    print("Правильно")
+else:
+    print("Неправильно")
+e7 = int(input("9×7="))
+if e7 == 63:
+    print("Правильно")
+else:
+    print("Неправильно")
+e8 = int(input("9×8="))
+if e8 == 72:
+    print("Правильно")
+else:
+    print("Неправильно")
+e9 = int(input("9×9="))
+if e9 == 81:
+    print("Правильно")
+else:
+    print("Неправильно")
+print("Молодец!!! вы прошли все этапы!!!")
